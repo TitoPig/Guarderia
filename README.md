@@ -9,6 +9,7 @@ Cosas que aprendi:
 - Con los windows forms es muy facil crear, modificar y eliminar elementos visuales, es algo que con facilidad aprendí.
 - Un gran desafio fue el manejo de tipos de datos de fecha y su parseo con C#, que en resumen es un gran lenguaje de implementacion de servicios.
 - Manejamos la comunicacion con la base de datos de la facultad (se ocultan datos importantes), que fue creada y administrada con SQL Server Management Studio.
+- El proyecto fue diseñado e implementado con una arquitectura MVC que beneficia la cohesion, el acoplamiento y las buenas practicas.
 
 ## Canine Daycare
 Group project with C#, .NET, and Windows Forms. We implemented a system that provides interfaces and services for managing a canine daycare, including CRUD operations for pets, clients, employees, and states, as well as transaction records such as shifts and canine services.
@@ -21,3 +22,4 @@ Lessons learned:
 - With Windows Forms, it is easy to create, modify, and delete visual elements, something I learned easily.
 - We faced a great challenge with the handling of date data types and their parsing with C#, which, in summary, is a powerful language for service implementation.
 - Handle the communication with the university database (important data is hidden), which was created and managed with SQL Server Management Studio.
+- The project was designed and implemented with an MVC architecture that benefits cohesion, coupling, and best practices.
